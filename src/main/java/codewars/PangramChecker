@@ -1,0 +1,3 @@
+PangramChecker is one of the CodeWars training examples.
+The aim of these methods (check and check1) is to find whether the given sentence/string to the check method has all the letters in the English alphabet!
+If it does, our methods return true.
