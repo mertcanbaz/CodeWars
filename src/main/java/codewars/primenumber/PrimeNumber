@@ -1,0 +1,3 @@
+PrimeNumber is one of the CodeWars training examples.
+The aim of the method is to find whether the given integer to the isPrime method is a prime number!
+If the number is one of the prime numbers, our method returns true.

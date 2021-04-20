@@ -1,5 +1,6 @@
-package codewars;
+package codewars.pangramchecker;
 
+import codewars.pangramchecker.PangramChecker;
 import org.hamcrest.CoreMatchers;
 import org.junit.Assert;
 import org.junit.Test;

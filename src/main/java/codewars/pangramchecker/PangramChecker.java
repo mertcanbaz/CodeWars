@@ -1,4 +1,4 @@
-package codewars;
+package codewars.pangramchecker;
 
 import java.util.HashMap;
 import java.util.Map;
